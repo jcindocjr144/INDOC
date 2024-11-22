@@ -1,0 +1,33 @@
+button a{
+    text-decoration: none;
+    color:white;
+    font-size: 12px;
+}
+button a:hover{
+    text-decoration: none;
+    color:yellow;
+    font-size: 12px;
+}
+body{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-shadow: 1px 5px 5px BLUE;
+}
+h3{
+    font-family: cursive;
+}
+p{
+    font-family: monospace;
+    text-shadow: 2px 1px black;
+    color: yellow;
+}
+.card{
+    font-size: 12px;
+}
+.btn{
+    font-size: 12px;
+}
